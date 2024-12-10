@@ -1,0 +1,2458 @@
+[
+    {
+      "name" : "01net",
+      "01net" 
+      "url" : "http://www.01net.com/recherche/recherche.php?searchstring={{{s}}}&chaine=home"
+    },
+    {
+      "name" : "BMW 2002 FAQ",
+      "02faq" 
+      "url" : "https://www.bmw2002faq.com/search/?q={{{s}}}"
+    },
+    {
+      "name" : "Box Office Mojo", 
+      "0bo" 
+      "url" : "http://boxofficemojo.com/search/?q={{{s}}}"
+    },
+    {
+      "name" : "0to255",
+      "0to255" 
+      "url" : "http://0to255.com/{{{s}}}"
+    },
+    {
+      "name" : "1001boom",
+      "1001" 
+      "url" : "http://1001boom.com/?s={{{s}}}"
+    },
+    {
+      "name" : "1001 Fonts",
+      "1001fonts" 
+      "url" : "http://www.1001fonts.com/search.html?search={{{s}}}&x=0&y=0"
+    },
+    {
+      "name" : "101 Domain",
+      "101" 
+      "url" : "http://www.101domain.com/domain-availability-search.htm?q={{{s}}}&sa.x=0&sa.y=0"
+    },
+    {
+      "name" : "101domain",
+      "101domain" 
+      "url" : "https://www.101domain.com/domain-availability-search.htm?q={{{s}}}"
+    },
+    {
+      "name" : "1122",
+      "1122" 
+      "url" : "https://1122.com.uy/buscar/{{{s}}}/todo-el-pais"
+    },
+    {
+      "name" : "1177 V\u00e5rdguiden",
+      "1177" 
+      "url" : "http://www.1177.se/Sok/?q={{{s}}}"
+    },
+    {
+      "name" : "11870",
+      "11870" 
+      "url" : "http://11870.com/konsulto?q={{{s}}}"
+    },
+    {
+      "name" : "TDC 118",
+      "118" 
+      "url" : "http://118.dk/search/go?what={{{s}}}"
+    },
+    {
+      "name" : "11 Freunde",
+      "11freunde" 
+      "url" : "http://www.11freunde.de/search/gss/{{{s}}}"
+    },
+    {
+      "name" : "11\ubc88\uac00",
+      "11st" 
+      "url" : "http://search.11st.co.kr/SearchPrdAction.tmall?method=getTotalSearchSeller&kwd={{{s}}}"
+    },
+    {
+      "name" : "140journos",
+      "140" 
+      "url" : "https://140journos.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "14-tage-wettervorhersage.de",
+      "14" 
+      "url" : "https://14-tage-wettervorhersage.de/suche/?q={{{s}}}&lg=de"
+    },
+    {
+      "name" : "b144",
+      "144" 
+      "url" : "http://b144.co.il/PrivateResults.aspx?&p_name={{{s}}}"
+    },
+    {
+      "name" : "15min naujienos",
+      "15min" 
+      "url" : "https://www.15min.lt/paieska?q={{{s}}}"
+    },
+    {
+      "name" : "15Mpedia",
+      "15mpedia" 
+      "url" : "https://15mpedia.org/w/index.php?search={{{s}}}"
+    },
+    {
+      "name" : "17TRACK",
+      "17t" 
+      "url" : "http://www.17track.net/en/track?nums={{{s}}}"
+    },
+    {
+      "name" : "180.no",
+      "180" 
+      "url" : "https://www.180.no/Search/All?w={{{s}}}"
+    },
+    {
+      "name" : "1881.no",
+      "1881" 
+      "url" : "http://www.1881.no/?query={{{s}}}"
+    },
+    {
+      "name" : "1cak",
+      "1c" 
+      "url" : "https://1cak.com/search-0-{{{s}}}"
+    },
+    {
+      "name" : "1d4chan",
+      "1d4chan" 
+      "url" : "https://1d4chan.org/index.php?search={{{s}}}"
+    },
+    {
+      "name" : "OneDrive",
+      "1dr" 
+      "url" : "http://onedrive.live.com/?q={{{s}}}"
+    },
+    {
+      "name" : "1gabba",
+      "1gabba" 
+      "url" : "http://1gabba.net/frontpage?title={{{s}}}"
+    },
+    {
+      "name" : "1mg",
+      "1mg" 
+      "url" : "https://www.1mg.com/search/all?name={{{s}}}"
+    },
+    {
+      "name" : "OnePeterFive",
+      "1p5" 
+      "url" : "https://onepeterfive.com/?s={{{s}}}"
+    },
+    {
+      "name" : "1und1",
+      "1und1" 
+      "url" : "https://www.1und1.de/suche?query={{{s}}}"
+    },
+    {
+      "name" : "20 Minutes",
+      "20m" 
+      "url" : "http://www.20minutes.fr/search?q={{{s}}}"
+    },
+    {
+      "name" : "24au.ru",
+      "24au" 
+      "url" : "https://krsk.au.ru/nextauction/?search={{{s}}}"
+    },
+    {
+      "name" : "24matins",
+      "24matins" 
+      "url" : "http://www.24matins.fr/?s={{{s}}}"
+    },
+    {
+      "name" : "24sessions",
+      "24sessions" 
+      "url" : "http://24sessions.com/search/text:{{{s}}}"
+    },
+    {
+      "name" : "27crags",
+      "27crags" 
+      "url" : "https://27crags.com/site/search?qs={{{s}}}"
+    },
+    {
+      "name" : "2b2t wiki",
+      "2b2t" 
+      "url" : "https://2b2t.miraheze.org/w/index.php?search={{{s}}}&title=Special%3ASearch&go=Go"
+    },
+    {
+      "name" : "5channel",
+      "2channel" 
+      "url" : "http://find.5ch.net/search?q={{{s}}}"
+    },
+    {
+      "name" : "2dehands.be",
+      "2dehands" 
+      "url" : "http://www.2dehands.be/markt?qq={{{s}}}"
+    },
+    {
+      "name" : "2ememain",
+      "2eme" 
+      "url" : "http://www.2ememain.be/marche/2/{{{s}}}/"
+    },
+    {
+      "name" : "2ememain.be",
+      "2ememain" 
+      "url" : "http://www.2ememain.be/marche/?qq={{{s}}}"
+    },
+    {
+      "name" : "2gis.ru",
+      "2gis" 
+      "url" : "http://2gis.ru/moscow/search/{{{s}}}"
+    },
+    {
+      "name" : "2gis \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+      "2gissbp" 
+      "url" : "https://2gis.ru/spb/search/{{{s}}}"
+    },
+    {
+      "name" : "2GIS \u0423\u0444\u0430",
+      "2gisufa" 
+      "url" : "https://2gis.ru/ufa/search/{{{s}}}"
+    },
+    {
+      "name" : "TouhouDB",
+      "2hu" 
+      "url" : "https://touhoudb.com/Search?filter={{{s}}}"
+    },
+    {
+      "name" : "2NN",
+      "2nn" 
+      "url" : "https://www.2nn.jp/word/{{{s}}}"
+    },
+    {
+      "name" : "2player.com",
+      "2pl" 
+      "url" : "http://2player.com/search/?search={{{s}}}"
+    },
+    {
+      "name" : "2xmoinscher",
+      "2xmc" 
+      "url" : "https://www.2xmoinscher.com/r?q={{{s}}}"
+    },
+    {
+      "name" : "34travel.me",
+      "34travel" 
+      "url" : "https://34travel.me/search?text={{{s}}}"
+    },
+    {
+      "name" : "35C3 Wiki",
+      "35c3" 
+      "url" : "https://events.ccc.de/congress/2018/wiki/index.php?search={{{s}}}"
+    },
+    {
+      "name" : "360skate.com",
+      "360" 
+      "url" : "http://www.360skate.com/catalogsearch/result/?q={{{s}}} "
+    },
+    {
+      "name" : "360androidapp",
+      "360app" 
+      "url" : "https://www.360androidapp.com/{{{s}}}"
+    },
+    {
+      "name" : "360\u56fe\u7247",
+      "360iso" 
+      "url" : "http://image.so.com/i?q={{{s}}}"
+    },
+    {
+      "name" : "360\u641c\u7d22",
+      "360so" 
+      "url" : "https://www.so.com/s?q={{{s}}}"
+    },
+    {
+      "name" : "3Bmeteo",
+      "3bm" 
+      "url" : "https://www.3bmeteo.com/meteo/{{{s}}}"
+    },
+    {
+      "name" : "3dagogo",
+      "3da" 
+      "url" : "https://3dagogo.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "3DBrew",
+      "3dbrew" 
+      "url" : "http://3dbrew.org/wiki/Special:Search?search={{{s}}}&go=Go"
+    },
+    {
+      "name" : "3DJuegos",
+      "3dj" 
+      "url" : "https://www.3djuegos.com/?q={{{s}}}&zona=resultados-buscador&ni=1"
+    },
+    {
+      "name" : "3Druck.com",
+      "3druck" 
+      "url" : "http://3druck.com/?s={{{s}}}"
+    },
+    {
+      "name" : "Dassault Syst\u00e8mes",
+      "3ds" 
+      "url" : "http://www.3ds.com/search/?q={{{s}}}"
+    },
+    {
+      "name" : "Sketchup 3D Warehouse",
+      "3dware" 
+      "url" : "https://3dwarehouse.sketchup.com/search.html?q={{{s}}}"
+    },
+    {
+      "name" : "3GPP Technical Specification",
+      "3gpp" 
+      "url" : "http://www.3gpp.org/DynaReport/{{{s}}}.htm"
+    },
+    {
+      "name" : "Tr\u00f3jmiasto",
+      "3m" 
+      "url" : "http://www.trojmiasto.pl/s/{{{s}}}/"
+    },
+    {
+      "name" : "3tailer",
+      "3tailer" 
+      "url" : "https://3tailer.com/search/?q={{{s}}}"
+    },
+    {
+      "name" : "TriTrans",
+      "3t" 
+      "url" : "http://www.tritrans.net/cgibin/translate.cgi?spraak=Engelsk&Fra={{{s}}}&button=Translate%21"
+    },
+    {
+      "name" : "401 Games",
+      "401games" 
+      "url" : "https://store.401games.ca/pages/search-results?q={{{s}}}"
+    },
+    {
+      "name" : "42 Intra",
+      "42" 
+      "url" : "https://profile.intra.42.fr/searches/search?query={{{s}}}"
+    },
+    {
+      "name" : "4 Fitness Rules",
+      "4" 
+      "url" : "https://www.4fitnessrules.com/workout-videos/?frm_search={{{s}}}"
+    },
+    {
+      "name" : "47 News",
+      "47" 
+      "url" : "https://www.47news.jp/search?phrase={{{s}}}"
+    },
+    {
+      "name" : "4chan /b/",
+      "4_b" 
+      "url" : "http://boards.4chan.org/b/catalog#s={{{s}}}"
+    },
+    {
+      "name" : "Implyingrigged",
+      "4cc" 
+      "url" : "http://implyingrigged.info/w/index.php?search={{{s}}}"
+    },
+    {
+      "name" : "4chan Board",
+      "4ch" 
+      "url" : "https://4chan.org/{{{s}}}"
+    },
+    {
+      "name" : "4chan /a/ board",
+      "4cha" 
+      "url" : "https://boards.4chan.org/a/catalog#s={{{s}}}"
+    },
+    {
+      "name" : "4chan",
+      "4chan" 
+      "url" : "https://duckduckgo.com/?q={{{s}}}+site%3A4chan.org&t=ffsb"
+    },
+    {
+      "name" : "4chan Boards",
+      "4chanb" 
+      "url" : "http://4chan.org/b/{{{s}}}"
+    },
+    {
+      "name" : "4chan Catalog",
+      "4chc" 
+      "url" : "https://boards.4chan.org/{{{s}}}/catalog"
+    },
+    {
+      "name" : "4chan fashion board",
+      "4chfa" 
+      "url" : "https://boards.4chan.org/fa/catalog#s={{{s}}}"
+    },
+    {
+      "name" : "4chan technology board",
+      "4chg" 
+      "url" : "https://boards.4chan.org/g/catalog#s={{{s}}}"
+    },
+    {
+      "name" : "4chan international board",
+      "4chint" 
+      "url" : "https://boards.4chan.org/int/catalog#s={{{s}}}"
+    },
+    {
+      "name" : "4chan music board",
+      "4chmu" 
+      "url" : "https://boards.4chan.org/mu/catalog#s={{{s}}}"
+    },
+    {
+      "name" : "4chan's /news/ board",
+      "4chnews" 
+      "url" : "https://boards.4chan.org/news/catalog#s={{{s}}}"
+    },
+    {
+      "name" : "/n/ archives",
+      "4chn" 
+      "url" : "https://archive.nyafuu.org/n/search/text/{{{s}}}/"
+    },
+    {
+      "name" : "4chan robot board",
+      "4chr9k" 
+      "url" : "https://boards.4chan.org/r9k/catalog#s={{{s}}}"
+    },
+    {
+      "name" : "4chan /b/ board",
+      "4chrandom" 
+      "url" : "https://boards.4chan.org/b/catalog#s={{{s}}}"
+    },
+    {
+      "name" : "4chansearch",
+      "4chsearch" 
+      "url" : "https://4chansearch.com/?q={{{s}}}"
+    },
+    {
+      "name" : "4chan video games board",
+      "4chv" 
+      "url" : "https://boards.4chan.org/v/catalog#s={{{s}}}"
+    },
+    {
+      "name" : "4chan, /vg/",
+      "4cvg" 
+      "url" : "http://boards.4chan.org/vg/catalog#s={{{s}}}"
+    },
+    {
+      "name" : "4chan - /g/ - Technology",
+      "4g" 
+      "url" : "http://4chan.org/g/{{{s}}}"
+    },
+    {
+      "name" : "4chan /g/ archive",
+      "4ga" 
+      "url" : "https://archive.rebeccablacktech.com/g/search/text/{{{s}}}/"
+    },
+    {
+      "name" : "4pda",
+      "4pda" 
+      "url" : "http://4pda.ru/forum/index.php?act=search&source=all&forums[]=all&query={{{s}}}&x=0&y=0"
+    },
+    {
+      "name" : "4players",
+      "4pl" 
+      "url" : "http://www.4players.de/4players.php/suchergebnis/Allgemein/4players/?s={{{s}}}"
+    },
+    {
+      "name" : "4players",
+      "4players" 
+      "url" : "http://www.4players.de/4players.php/suchergebnis/Allgemein/4players/?s={{{s}}}"
+    },
+    {
+      "name" : "4plebs Archive",
+      "4plebs" 
+      "url" : "https://archive.4plebs.org/_/search/text/{{{s}}}/"
+    },
+    {
+      "name" : "4shared",
+      "4shared" 
+      "url" : "http://search.4shared.com/q/CCAD/1/{{{s}}}"
+    },
+    {
+      "name" : "4Sound",
+      "4sound" 
+      "url" : "http://www.4sound.dk/search/{{{s}}}"
+    },
+    {
+      "name" : "Foursquare",
+      "4sq" 
+      "url" : "https://foursquare.com/explore?mode=url&nearGeoId=&q={{{s}}}"
+    },
+    {
+      "name" : "4x4 Community",
+      "4x4community" 
+      "url" : "http://www.4x4community.co.za/forum/threadloom/threadloom.php?query={{{s}}}"
+    },
+    {
+      "name" : "4x4 Direct",
+      "4x4direct" 
+      "url" : "http://www.4x4direct.co.za/search?controller=search&orderby=position&orderway=desc&search_query={{{s}}}&submit_search="
+    },
+    {
+      "name" : "500px",
+      "500" 
+      "url" : "https://prime.500px.com/search/key={{{s}}}"
+    },
+    {
+      "name" : "500px",
+      "500px" 
+      "url" : "https://500px.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "Food52",
+      "52" 
+      "url" : "http://food52.com/recipes/search?q={{{s}}}"
+    },
+    {
+      "name" : "fivethirtyeight.com",
+      "538" 
+      "url" : "http://fivethirtyeight.com/?s={{{s}}}"
+    },
+    {
+      "name" : "QuintoAndar",
+      "5a" 
+      "url" : "https://www.quintoandar.com.br/alugar/imovel/{{{s}}}/"
+    },
+    {
+      "name" : "5\u3061\u3083\u3093\u306d\u308b",
+      "5ch" 
+      "url" : "https://find.5ch.net/search?q={{{s}}}"
+    },
+    {
+      "name" : "5channel",
+      "5channel" 
+      "url" : "http://find.5ch.net/search?q={{{s}}}"
+    },
+    {
+      "name" : "D&D 5e Wiki",
+      "5e" 
+      "url" : "http://engl393-dnd5th.wikia.com/wiki/Special:Search?query={{{s}}}"
+    },
+    {
+      "name" : "D&D 5e Wikidot",
+      "5ew" 
+      "url" : "http://dnd5e.wikidot.com/search:site/a/p/q/{{{s}}}"
+    },
+    {
+      "name" : "Fiverr",
+      "5" 
+      "url" : "http://fiverr.com/gigs/search?query={{{s}}}"
+    },
+    {
+      "name" : "GTA 5 Mods",
+      "5mods" 
+      "url" : "https://www.gta5-mods.com/search/{{{s}}}"
+    },
+    {
+      "name" : "6pm.com",
+      "6pm" 
+      "url" : "https://www.6pm.com/search?term={{{s}}}"
+    },
+    {
+      "name" : "750g",
+      "750g" 
+      "url" : "https://www.750g.com/recherche.htm?search={{{s}}}"
+    },
+    {
+      "name" : "7digital",
+      "7digital" 
+      "url" : "https://www.7digital.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "7digital (Norway)",
+      "7digitalno" 
+      "url" : "https://no.7digital.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "7switch",
+      "7switch" 
+      "url" : "https://www.7switch.com/fr/list/search/page/1?q={{{s}}}"
+    },
+    {
+      "name" : "7TV",
+      "7tv" 
+      "url" : "https://www.7tv.de/suche?q={{{s}}}"
+    },
+    {
+      "name" : "800notes.com",
+      "800" 
+      "url" : "http://800notes.com/Phone.aspx/{{{s}}}"
+    },
+    {
+      "name" : "80/20",
+      "8020" 
+      "url" : "https://8020.net/freetextsearch/search/result/?keyword={{{s}}}"
+    },
+    {
+      "name" : "80,000 hours",
+      "80k" 
+      "url" : "https://80000hours.org/search/?q={{{s}}}"
+    },
+    {
+      "name" : "89.9 LightFM",
+      "89.9" 
+      "url" : "https://www.lightfm.com.au/?s={{{s}}}"
+    },
+    {
+      "name" : "8a.nu",
+      "8a" 
+      "url" : "https://www.8a.nu/scorecard/Search.aspx?Mode=SIMPLE&AscentType=0&CragName={{{s}}}"
+    },
+    {
+      "name" : "8chan Boards",
+      "8chb" 
+      "url" : "http://8ch.net/boards.php?title={{{s}}}"
+    },
+    {
+      "name" : "8chan Board Catalogs",
+      "8chc" 
+      "url" : "http://8ch.net/{{{s}}}/catalog.html"
+    },
+    {
+      "name" : "8tracks",
+      "8tracks" 
+      "url" : "http://8tracks.com/explore/all?q={{{s}}}"
+    },
+    {
+      "name" : "911tabs",
+      "911" 
+      "url" : "http://www.911tabs.com/search.php?search={{{s}}}&type=band"
+    },
+    {
+      "name" : "911 Tabs (Songs)",
+      "911s" 
+      "url" : "http://www.911tabs.com/search.php?search={{{s}}}&type=song"
+    },
+    {
+      "name" : "91 mobiles",
+      "91" 
+      "url" : "http://www.91mobiles.com/topic/{{{s}}}/all"
+    },
+    {
+      "name" : "\u81ed\u3044\u5973\u6027\u304b\u3089\u5352\u696d\u5ba3\u8a00",
+      "931women" 
+      "url" : "https://931women.com/?s={{{s}}}: "
+    },
+    {
+      "name" : "The Hermetic Library",
+      "93" 
+      "url" : "https://hermetic.com/index?do=search&id={{{s}}}"
+    },
+    {
+      "name" : "9to5google",
+      "95g" 
+      "url" : "https://cse.google.com/cse?cx=008464549922976904202:uxmexxzm3k4&q={{{s}}}"
+    },
+    {
+      "name" : "9to5Google",
+      "95google" 
+      "url" : "https://9to5google.com/?s={{{s}}}"
+    },
+    {
+      "name" : "9to5Mac",
+      "95mac" 
+      "url" : "http://9to5mac.com/?s={{{s}}}"
+    },
+    {
+      "name" : "990 Search (Foundation Center)",
+      "990" 
+      "url" : "http://990finder.foundationcenter.org/990results.aspx?990_type=&fn={{{s}}}&st=&zp=&ei=&fy=&action=Search"
+    },
+    {
+      "name" : "999.md",
+      "999" 
+      "url" : "https://999.md/ru/search?query={{{s}}}"
+    },
+    {
+      "name" : "9pp.co",
+      "9" 
+      "url" : "http://9pp.co/search?q={{{s}}}"
+    },
+    {
+      "name" : "99 Quotes",
+      "99quotes" 
+      "url" : "https://99quotes.me/search?q={{{s}}}"
+    },
+    {
+      "name" : "9gag",
+      "9g" 
+      "url" : "http://9gag.com/search?query={{{s}}}"
+    },
+    {
+      "name" : "9gag",
+      "9gag" 
+      "url" : "https://9gag.com/search?query={{{s}}}"
+    },
+    {
+      "name" : "AlternativeTo.net",
+      "a2" 
+      "url" : "http://alternativeto.net/browse/search/?q={{{s}}}&ignoreExactMatch=true"
+    },
+    {
+      "name" : "Angular.io v5",
+      "a5" 
+      "url" : "https://v5.angular.io/api?query={{{s}}}"
+    },
+    {
+      "name" : "Angular.io v6",
+      "a6" 
+      "url" : "https://v6.angular.io/api?query={{{s}}}"
+    },
+    {
+      "name" : "Angular.io v7",
+      "a7" 
+      "url" : "https://v7.angular.io/api?query={{{s}}}"
+    },
+    {
+      "name" : "AAA",
+      "aaa" 
+      "url" : "https://careers-calstate.aaa.com/search-results?key={{{s}}}"
+    },
+    {
+      "name" : "Akt\u00fcel Adam",
+      "a.a" 
+      "url" : "https://aktueladam.com/?s={{{s}}} "
+    },
+    {
+      "name" : "Amazon Automotive",
+      "aa" 
+      "url" : "http://www.amazon.com/s/&url=search-alias%3Dautomotive&field-key={{{s}}}"
+    },
+    {
+      "name" : "Ann Arbor District Library",
+      "aadl" 
+      "url" : "http://www.aadl.org/catalog/search/keyword/{{{s}}}"
+    },
+    {
+      "name" : "Album Art Exchange",
+      "aae" 
+      "url" : "http://www.albumartexchange.com/covers.php?q={{{s}}}"
+    },
+    {
+      "name" : "All About Jazz",
+      "aaj" 
+      "url" : "https://www.allaboutjazz.com/php/article_center.php?in_artist={{{s}}}&in_album=&in_label=&in_author=&in_type=0&orderby=dt_pub"
+    },
+    {
+      "name" : "Aarhus Bibliotekerne",
+      "aakb" 
+      "url" : "https://www.aakb.dk/search/ting/{{{s}}}?"
+    },
+    {
+      "name" : "AAM",
+      "aam" 
+      "url" : "https://careers.aam.com/us/en/search-results?key={{{s}}}"
+    },
+    {
+      "name" : "Amazon.com",
+      "a" 
+      "url" : "https://www.amazon.com/s?k={{{s}}}"
+    },
+    {
+      "name" : "Aamulehti",
+      "aamulehti" 
+      "url" : "https://duckduckgo.com/?sites=www.aamulehti.fi&kh=1&q={{{s}}}&ia=web"
+    },
+    {
+      "name" : "Aptoide",
+      "aapt" 
+      "url" : "http://www.aptoide.com/search/view?search_top= {{{s}}} &x=0&y=0"
+    },
+    {
+      "name" : "AardWiki",
+      "aard" 
+      "url" : "http://www.aardwolf.com/wiki/index.php/Site/Search?q={{{s}}}"
+    },
+    {
+      "name" : "Estonian - English - Estonian Dictionary",
+      "aare" 
+      "url" : "https://aare.edu.ee/dictionary.html?query={{{s}}}&lang=ee"
+    },
+    {
+      "name" : "Amazon Austria",
+      "a.at" 
+      "url" : "https://www.amazon.de/s?k={{{s}}}"
+    },
+    {
+      "name" : "Art & Architecture Thesaurus\u00ae Online",
+      "aat" 
+      "url" : "http://www.getty.edu/vow/AATServlet?english=N&find={{{s}}}&logic=AND&page=1&note="
+    },
+    {
+      "name" : "Amazon Australia",
+      "aau" 
+      "url" : "https://www.amazon.com.au/s?k={{{s}}}"
+    },
+    {
+      "name" : "Ace Attorney Wiki",
+      "aaw" 
+      "url" : "http://aceattorney.wikia.com/wiki/{{{s}}}"
+    },
+    {
+      "name" : "Album Art Exchange",
+      "\u00e0ax" 
+      "url" : "http://www.albumartexchange.com/covers?fltr=ALL&sort=TITLE&q={{{s}}}"
+    },
+    {
+      "name" : "Album Art Exchange",
+      "aax" 
+      "url" : "http://www.albumartexchange.com/covers.php?q={{{s}}}"
+    },
+    {
+      "name" : "Abadis English to Persian dictionary",
+      "abadise" 
+      "url" : "https://dictionary.abadis.ir/?LnType=entofa&Word={{{s}}}"
+    },
+    {
+      "name" : "Abadis Persian to English dictionary ",
+      "abadisf" 
+      "url" : "https://dictionary.abadis.ir/?lntype=fatoen&word={{{s}}}"
+    },
+    {
+      "name" : "Airbitz",
+      "ab" 
+      "url" : "http://airbitz.co/search?term={{{s}}}"
+    },
+    {
+      "name" : "Abandonia",
+      "abandonia" 
+      "url" : "http://www.abandonia.com/en/search_abandonia/{{{s}}}"
+    },
+    {
+      "name" : "ABB",
+      "abb" 
+      "url" : "https://new.abb.com/search/results#query={{{s}}}"
+    },
+    {
+      "name" : "Abbott",
+      "abbott" 
+      "url" : "https://www.jobs.abbott/us/en/search-results?key={{{s}}}"
+    },
+    {
+      "name" : "Abbreviations.com",
+      "abbr" 
+      "url" : "http://www.abbreviations.com/{{{s}}}"
+    },
+    {
+      "name" : "Abbuc e.V.",
+      "abbuc" 
+      "url" : "http://www.abbuc.de/component/search/?searchword={{{s}}}"
+    },
+    {
+      "name" : "abcnotation",
+      "abc" 
+      "url" : "http://abcnotation.com/searchTunes?q={{{s}}}"
+    },
+    {
+      "name" : "Abcam",
+      "abcam" 
+      "url" : "https://www.abcam.com/products?key={{{s}}}"
+    },
+    {
+      "name" : "ABC Australia",
+      "abcau" 
+      "url" : "http://search.abc.net.au/s/search.html?query={{{s}}}&collection=abcall_meta&form=simple"
+    },
+    {
+      "name" : "ABCgames.cz",
+      "abcgames" 
+      "url" : "http://www.abcgames.cz/?p=sekcia_hladaj&key={{{s}}}"
+    },
+    {
+      "name" : "ABCNews",
+      "abcnews" 
+      "url" : "http://abcnews.go.com/search?searchtext={{{s}}}"
+    },
+    {
+      "name" : "abcnotation.com",
+      "abcnotation" 
+      "url" : "http://abcnotation.com/searchTunes?q={{{s}}}&f=c&o=a&s=0"
+    },
+    {
+      "name" : "abcya",
+      "abcya" 
+      "url" : "https://www.abcya.com/search/?term={{{s}}}&type={{{s}}}"
+    },
+    {
+      "name" : "Abe's Market",
+      "abe" 
+      "url" : "http://www.abesmarket.com/catalogsearch/result/?cat=5&order=relevance&dir=desc&q={{{s}}}"
+    },
+    {
+      "name" : "abebooks",
+      "abebooks" 
+      "url" : "http://www.abebooks.com/servlet/SearchResults?kn={{{s}}}"
+    },
+    {
+      "name" : "AbeBooks.de",
+      "abebooksde" 
+      "url" : "http://www.abebooks.de/servlet/SearchResults?kn={{{s}}}&sts=t&x=0&y=0"
+    },
+    {
+      "name" : "Abbyy Dictionary En-Ru",
+      "ab-er" 
+      "url" : "http://www.lingvo-online.ru/en/Translate/en-ru/{{{s}}}"
+    },
+    {
+      "name" : "abebooks uk",
+      "abeuk" 
+      "url" : "http://www.abebooks.co.uk/servlet/SearchResults?kn={{{s}}}"
+    },
+    {
+      "name" : "Abfahrtsplan Deutsche Bahn",
+      "abfahrt" 
+      "url" : "https://mobile.bahn.de/bin/mobil/bhftafel.exe/dox?input={{{s}}}&productsFilter=1111111111000000&time=actual&maxJourneys=40&start=Suchen&boardType=Abfahrt&rt=1"
+    },
+    {
+      "name" : "abiunity",
+      "abiunity" 
+      "url" : "https://www.abiunity.de/datenbank.php?boardid=48#!v=searchdb&search={{{s}}}&boardid=48"
+    },
+    {
+      "name" : "ABN Lookup",
+      "abn" 
+      "url" : "http://abr.business.gov.au/Search.aspx?SearchText={{{s}}}"
+    },
+    {
+      "name" : "Airbnb",
+      "abnb" 
+      "url" : "https://www.airbnb.com/s/{{{s}}}/all"
+    },
+    {
+      "name" : "https://abo.finna.fi/",
+      "abol" 
+      "url" : "https://abo.finna.fi/Search/Results?lookfor={{{s}}}&type=AllFields"
+    },
+    {
+      "name" : "About.com",
+      "about" 
+      "url" : "http://search.about.com/fullsearch.htm?terms={{{s}}}"
+    },
+    {
+      "name" : "Amazon Brazil",
+      "abr" 
+      "url" : "https://www.amazon.com.br/s?k={{{s}}} "
+    },
+    {
+      "name" : "\u00c1bretelibro",
+      "abretelibro" 
+      "url" : "http://www.abretelibro.com/foro/search.php?key={{{s}}}&sf=titleonly"
+    },
+    {
+      "name" : "AllBookstores",
+      "abs" 
+      "url" : "http://www.allbookstores.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "Aberdeenshire council",
+      "abshire" 
+      "url" : "http://aberdeenshire.gov.uk/search?search={{{s}}}"
+    },
+    {
+      "name" : "Mi abuela vende",
+      "abuela" 
+      "url" : "http://miabuelavende.com/?s={{{s}}}&post_type=product"
+    },
+    {
+      "name" : "AbuseIPDB",
+      "abuseip" 
+      "url" : "https://www.abuseipdb.com/check/{{{s}}}"
+    },
+    {
+      "name" : "Wallpaper Abyss",
+      "abyss" 
+      "url" : "http://wall.alphacoders.com/search.php?search={{{s}}}"
+    },
+    {
+      "name" : "Amazon.ca",
+      "aca" 
+      "url" : "https://www.amazon.ca/s?k={{{s}}}"
+    },
+    {
+      "name" : "academia.edu",
+      "academia" 
+      "url" : "http://www.academia.edu/people/search?utf8=%E2%9C%93&q={{{s}}}"
+    },
+    {
+      "name" : "Academic Earth",
+      "academicearth" 
+      "url" : "https://academicearth.org/?s={{{s}}}"
+    },
+    {
+      "name" : "http://dic.academic.ru/",
+      "acad" 
+      "url" : "http://dic.academic.ru/searchall.php?SWord={{{s}}}"
+    },
+    {
+      "name" : "Allocin\u00e9",
+      "ac" 
+      "url" : "http://www.allocine.fr/recherche/?q={{{s}}}"
+    },
+    {
+      "name" : "American Custom Boxes",
+      "acb" 
+      "url" : "https://americancustomboxes.com/?s={{{s}}}"
+    },
+    {
+      "name" : "aleth.io account address",
+      "acc" 
+      "url" : "https://aleth.io/account/{{{s}}}"
+    },
+    {
+      "name" : "Australian Competition and Consumer Commission",
+      "accc" 
+      "url" : "https://www.accc.gov.au/site-search/{{{s}}}"
+    },
+    {
+      "name" : "Accountcia",
+      "accountcia" 
+      "url" : "https://www.accountcia.com/?geodir_search=1&stype=gd_place&sgd_placecategory%5B%5D=&s={{{s}}}"
+    },
+    {
+      "name" : "Account Killer",
+      "accountkiller" 
+      "url" : "http://www.accountkiller.com/en/delete-{{{s}}}-account"
+    },
+    {
+      "name" : "AccuWeather",
+      "accuweather" 
+      "url" : "http://www.accuweather.com/us-city-list.asp?zipcode={{{s}}}"
+    },
+    {
+      "name" : "Ace Hardware",
+      "ace" 
+      "url" : "http://www.acehardware.com/search/index.jsp?kwCatId=&kw={{{s}}}&origkw={{{s}}}&f=Taxonomy/ACE/19541496&sr=1"
+    },
+    {
+      "name" : "AceLab official forum",
+      "aceforum" 
+      "url" : "http://forum.acelaboratory.com/search.php?key={{{s}}}"
+    },
+    {
+      "name" : "Acer",
+      "acer" 
+      "url" : "http://us.acer.com/ac/en/US/search?q={{{s}}}"
+    },
+    {
+      "name" : "AcFun",
+      "acfun" 
+      "url" : "http://www.acfun.cn/search/?#query={{{s}}} "
+    },
+    {
+      "name" : "Arch Chinese",
+      "ach" 
+      "url" : "http://www.archchinese.com/chinese_english_dictionary.html?find={{{s}}}"
+    },
+    {
+      "name" : "Amar Chitra Katha Complete Collection",
+      "ackuc" 
+      "url" : "https://www.amarchitrakatha.com/us/catalogsearch/result/?cat=0&q={{{s}}}"
+    },
+    {
+      "name" : "ACL Anthology",
+      "acl" 
+      "url" : "https://www.aclweb.org/anthology/search/?q={{{s}}}"
+    },
+    {
+      "name" : "American Civil Liberties Union",
+      "aclu" 
+      "url" : "https://www.aclu.org/search/{{{s}}}?show_aff=1"
+    },
+    {
+      "name" : "ACM Guide",
+      "acm" 
+      "url" : "http://dl.acm.org/results.cfm?dlr=GUIDE&query={{{s}}}"
+    },
+    {
+      "name" : "ACM Digital Library",
+      "acmdl" 
+      "url" : "https://dl.acm.org/results.cfm?query={{{s}}}"
+    },
+    {
+      "name" : "Amazon.cn",
+      "acn" 
+      "url" : "https://www.amazon.cn/s?k={{{s}}}"
+    },
+    {
+      "name" : "Acne.org",
+      "acne" 
+      "url" : "https://www.acne.org/search.php?i=&q={{{s}}}"
+    },
+    {
+      "name" : "Apple Coach",
+      "acnl" 
+      "url" : "https://applecoach.nl/?s={{{s}}}"
+    },
+    {
+      "name" : "Cortas",
+      "acortar" 
+      "url" : "http://cortas.elpais.com/encode.pl?u=http://{{{s}}}"
+    },
+    {
+      "name" : "Apache Cordova Plugins Registry",
+      "acp" 
+      "url" : "http://plugins.cordova.io/#/search?search={{{s}}}"
+    },
+    {
+      "name" : "AcquiredBy",
+      "acquiredby" 
+      "url" : "https://acquiredby.co/?s={{{s}}}"
+    },
+    {
+      "name" : "Acronym Finder",
+      "acr" 
+      "url" : "http://www.acronymfinder.com/{{{s}}}.html"
+    },
+    {
+      "name" : "Acronyms",
+      "acro" 
+      "url" : "http://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym={{{s}}}"
+    },
+    {
+      "name" : "Acronyms",
+      "acronym" 
+      "url" : "http://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym={{{s}}}"
+    },
+    {
+      "name" : "Acronyms",
+      "acronyms" 
+      "url" : "http://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym={{{s}}}"
+    },
+    {
+      "name" : "http://pubs.acs.org/",
+      "acs" 
+      "url" : "http://pubs.acs.org/action/doSearch?AllField={{{s}}}"
+    },
+    {
+      "name" : "ActiveState.com",
+      "activestate" 
+      "url" : "http://www.activestate.com/search/index.html?cx=005567415255730122040%3Aiof7ftsiexy&cof=FORID%3A11&sa.x=0&sa.y=0&q={{{s}}}#1013"
+    },
+    {
+      "name" : "actuly",
+      "actuly" 
+      "url" : "https://www.actuly.fr/?s={{{s}}}"
+    },
+    {
+      "name" : "AcuraZine",
+      "acurazine" 
+      "url" : "http://acurazine.com/forums/search.php?do=showgcs&query={{{s}}}"
+    },
+    {
+      "name" : "Animal Crossing Wikia ",
+      "acw" 
+      "url" : "http://animalcrossing.wikia.com/wiki/Special:Search?query={{{s}}}"
+    },
+    {
+      "name" : "Assassin's Creed Wiki",
+      "acwiki" 
+      "url" : "https://assassinscreed.fandom.com/wiki/Special:Search?query={{{s}}}"
+    },
+    {
+      "name" : "Ada 2005 Manual",
+      "ada" 
+      "url" : "http://www.ada-auth.org/search-rm05.cgi?SearchA={{{s}}}&SearchO=&SearchN="
+    },
+    {
+      "name" : "Adafruit",
+      "adablog" 
+      "url" : "https://blog.adafruit.com/?s={{{s}}}"
+    },
+    {
+      "name" : "AdaDerana",
+      "adaderana" 
+      "url" : "http://adaderana.lk/search_results.php?mode=1&show=1&query={{{s}}}"
+    },
+    {
+      "name" : "Adafruit",
+      "adafruit" 
+      "url" : "https://www.adafruit.com/?q={{{s}}}"
+    },
+    {
+      "name" : "Adagio Teas",
+      "adagio" 
+      "url" : "http://www.adagio.com/search/index.html?query={{{s}}}"
+    },
+    {
+      "name" : "Ask Different",
+      "ad" 
+      "url" : "http://apple.stackexchange.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "Arquivo da Bola",
+      "adb" 
+      "url" : "http://arquivodabola.com.br/busca.html?termo={{{s}}}"
+    },
+    {
+      "name" : "Apple Developer Center",
+      "adc" 
+      "url" : "https://developer.apple.com/search/index.php?q={{{s}}}"
+    },
+    {
+      "name" : "Addgene",
+      "addgene" 
+      "url" : "https://www.addgene.org/search/advanced/?q={{{s}}}"
+    },
+    {
+      "name" : "Addicting Games",
+      "addicting" 
+      "url" : "http://www.addictinggames.com/search/games.jsp?gameKeyword={{{s}}}"
+    },
+    {
+      "name" : "Addicting Games",
+      "addicting-games" 
+      "url" : "http://www.addictinggames.com/search/games.jsp?gameKeyword={{{s}}}"
+    },
+    {
+      "name" : "PrestaShop Addons",
+      "addons" 
+      "url" : "http://addons.prestashop.com/fr/recherche?search_query={{{s}}}"
+    },
+    {
+      "name" : "Add to Pocket",
+      "addtopocket" 
+      "url" : "https://getpocket.com/edit?url={{{s}}}"
+    },
+    {
+      "name" : "Amazon.de",
+      "a.de" 
+      "url" : "https://www.amazon.de/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.de",
+      "ade" 
+      "url" : "https://www.amazon.de/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.de Fremdsprachige B\u00fccher",
+      "adefb" 
+      "url" : "https://www.amazon.de/s?k={{{s}}}&i=english-books"
+    },
+    {
+      "name" : "Adelung: Grammatisch-Kritisches W\u00f6rterbuch der Hochdeutschen Mundart",
+      "adelung" 
+      "url" : "http://woerterbuchnetz.de/Adelung/?lemma={{{s}}}"
+    },
+    {
+      "name" : "Amazon.de Smile",
+      "ades" 
+      "url" : "https://smile.amazon.de/s/ref=nb_sb_noss?field-key={{{s}}}"
+    },
+    {
+      "name" : "Apple Developer",
+      "adev" 
+      "url" : "https://developer.apple.com/search/?q={{{s}}}"
+    },
+    {
+      "name" : "Apple dev form",
+      "adf" 
+      "url" : "https://forums.developer.apple.com/search.jspa?q={{{s}}}"
+    },
+    {
+      "name" : "ADI",
+      "adi" 
+      "url" : "https://www.adiglobaldistribution.us/search?criteria={{{s}}}"
+    },
+    {
+      "name" : "adidas",
+      "adidas" 
+      "url" : "http://www.adidas.fr/search?q={{{s}}}"
+    },
+    {
+      "name" : "Adjective1",
+      "adjective" 
+      "url" : "http://adjective1.com/?s={{{s}}}"
+    },
+    {
+      "name" : "Adlibris",
+      "adlibris" 
+      "url" : "https://www.adlibris.com/se/sok?q={{{s}}}"
+    },
+    {
+      "name" : "AdLibris DK",
+      "adlibrisdk" 
+      "url" : "http://www.adlibris.com/dk/searchresult.aspx?search=quickfirstpage&quickvalue={{{s}}}"
+    },
+    {
+      "name" : "AdLibris FI",
+      "adlibrisfi" 
+      "url" : "http://www.adlibris.com/fi/searchresult.aspx?search=quickfirstpage&quickvalue={{{s}}}"
+    },
+    {
+      "name" : "AdLibris NO",
+      "adlibrisno" 
+      "url" : "http://www.adlibris.com/no/searchresult.aspx?search=quickfirstpage&quickvalue={{{s}}}"
+    },
+    {
+      "name" : "AdLibris SE",
+      "adlibrisse" 
+      "url" : "http://www.adlibris.com/se/searchresult.aspx?search=quickfirstpage&quickvalue={{{s}}}"
+    },
+    {
+      "name" : "Adme.ru",
+      "adme" 
+      "url" : "https://www.adme.ru/search/?q={{{s}}}"
+    },
+    {
+      "name" : "AdminWiki",
+      "adminwiki" 
+      "url" : "https://www.adminwiki.fr/start?do=search&id={{{s}}}"
+    },
+    {
+      "name" : "AnimeDigitalNetwork",
+      "adn" 
+      "url" : "http://animedigitalnetwork.fr/video#search={{{s}}}"
+    },
+    {
+      "name" : "Adobe",
+      "adobe" 
+      "url" : "http://www.adobe.com/cfusion/search/index.cfm?loc=en_us&term={{{s}}}"
+    },
+    {
+      "name" : "Ansible Docs",
+      "adoc" 
+      "url" : "https://docs.ansible.com/ansible/latest/search.html?q={{{s}}}"
+    },
+    {
+      "name" : "ADOM Wiki",
+      "adom" 
+      "url" : "http://ancardia.wikia.com/wiki/Special:Search?search={{{s}}}"
+    },
+    {
+      "name" : "Adorama",
+      "ador" 
+      "url" : "https://www.adorama.com/l/?searchinfo={{{s}}}"
+    },
+    {
+      "name" : "Adrenaline",
+      "adr" 
+      "url" : "https://adrenaline.uol.com.br/site/pesquisa/{{{s}}}"
+    },
+    {
+      "name" : "SAO/NASA Astrophysics Data System",
+      "adsabs" 
+      "url" : "http://adsabs.harvard.edu//cgi-bin/basic_connect?qsearch={{{s}}}"
+    },
+    {
+      "name" : "ADS bumblebee",
+      "ads" 
+      "url" : "https://ui.adsabs.harvard.edu/#search/q={{{s}}}"
+    },
+    {
+      "name" : "Nasa ADS Beta",
+      "adsbeta" 
+      "url" : "https://ui.adsabs.harvard.edu/#search/q={{{s}}}"
+    },
+    {
+      "name" : "Autodesk Community",
+      "adsk" 
+      "url" : "http://forums.autodesk.com/t5/forums/searchpage/tab/message?q={{{s}}}"
+    },
+    {
+      "name" : "NASA ADS Labs",
+      "adslabs" 
+      "url" : "http://labs.adsabs.harvard.edu/ui/cgi-bin/topicSearch?q={{{s}}}"
+    },
+    {
+      "name" : "ADSR Sounds",
+      "adsr" 
+      "url" : "https://www.adsrsounds.com/?src={{{s}}}"
+    },
+    {
+      "name" : "NASA ADS Bibliographical reference search",
+      "adsref" 
+      "url" : "http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=ALL&bibcode={{{s}}} "
+    },
+    {
+      "name" : "Adtalem Careers",
+      "adtalem" 
+      "url" : "https://careers.adtalem.com/us/en/search-results?key={{{s}}}"
+    },
+    {
+      "name" : "Adventure Rider",
+      "adv" 
+      "url" : "https://duckduckgo.com/?q=site%3Aadvrider.com+{{{s}}}"
+    },
+    {
+      "name" : "Adverts.ie",
+      "adverts" 
+      "url" : "http://www.adverts.ie/for-sale/q_{{{s}}}/"
+    },
+    {
+      "name" : "ADVFN UK",
+      "advfn" 
+      "url" : "http://uk.advfn.com/p.php?pid=qkquote&symbol={{{s}}} "
+    },
+    {
+      "name" : "Advanced GTA",
+      "advgta" 
+      "url" : "https://advancedgta.com/?s={{{s}}}"
+    },
+    {
+      "name" : "Audeze",
+      "adz" 
+      "url" : "https://www.audeze.com/search?q={{{s}}}*"
+    },
+    {
+      "name" : "Adzuna",
+      "adzuna" 
+      "url" : "https://www.adzuna.co.uk/jobs/search?q={{{s}}} "
+    },
+    {
+      "name" : "aliexpress.com",
+      "ae" 
+      "url" : "https://www.aliexpress.com/wholesale?SearchText={{{s}}}"
+    },
+    {
+      "name" : "Austria Forum",
+      "aeiou" 
+      "url" : "https://austria-forum.org/Search.jsp?category=Austria-Forum&sname=name%2Csuchbegriff&query={{{s}}}+&searchType=default&useShortcuts=y&useSynonyms=n&doFuzzy=y&minResults=15"
+    },
+    {
+      "name" : "AEMET",
+      "aemet" 
+      "url" : "http://www.aemet.es/es/buscador?modo=and&orden=n&tipo=sta&str={{{s}}}"
+    },
+    {
+      "name" : "American Eagle Outfitters",
+      "aeo" 
+      "url" : "https://www.ae.com/search/{{{s}}}"
+    },
+    {
+      "name" : "AE7Q Amateur Extra Query Tools",
+      "aeq" 
+      "url" : "http://ae7q.com/query/data/CallHistory.php?CALL={{{s}}}"
+    },
+    {
+      "name" : "aeris - imirhil.fr",
+      "aeris" 
+      "url" : "https://duckduckgo.com/?q=site%3Aimirhil.fr+{{{s}}}"
+    },
+    {
+      "name" : "aerobis fitness",
+      "aerobis" 
+      "url" : "https://www.aerobis.com/en/?s={{{s}}}"
+    },
+    {
+      "name" : "Amazon ES",
+      "a.es" 
+      "url" : "https://www.amazon.es/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.es",
+      "aes" 
+      "url" : "https://www.amazon.es/s?k={{{s}}}"
+    },
+    {
+      "name" : "Acronym Finder",
+      "af" 
+      "url" : "http://www.acronymfinder.com/{{{s}}}.html"
+    },
+    {
+      "name" : "Arsenal",
+      "afc" 
+      "url" : "https://www.arsenal.com/search?search={{{s}}}"
+    },
+    {
+      "name" : "AFC Industries",
+      "afcind" 
+      "url" : "https://www.afcindustries.com/products/search.aspx?search={{{s}}}"
+    },
+    {
+      "name" : "Android File Host",
+      "afh" 
+      "url" : "https://androidfilehost.com/?w=search&s={{{s}}}"
+    },
+    {
+      "name" : "aalto.finna.fi",
+      "afinna" 
+      "url" : "https://aalto.finna.fi/Search/Results?lookfor={{{s}}}"
+    },
+    {
+      "name" : "Adafruit Learn",
+      "afl" 
+      "url" : "https://learn.adafruit.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "AFP",
+      "afp" 
+      "url" : "http://www.afpforum.com/AFPForum/Search/Results.aspx?pn=1&smd=8&fst={{{s}}}&fto=7&mui=3&t=2"
+    },
+    {
+      "name" : "AFP",
+      "afpf" 
+      "url" : "http://www.afpforum.com/AFPForum/Search/Results.aspx?pn=1&smd=8&fst={{{s}}}&fto=7&mui=3&t=2"
+    },
+    {
+      "name" : "Atlanta-Fulton Public Library System",
+      "afpls" 
+      "url" : "http://afpl.ent.sirsi.net/client/default/search/results?qu={{{s}}}&te=ILS"
+    },
+    {
+      "name" : "U.S. Air Force Forms and Publications",
+      "afpubs" 
+      "url" : "http://www.e-publishing.af.mil/index.asp?txtSearchWord={{{s}}}&rdoFormPub=rdoPub"
+    },
+    {
+      "name" : "Amazon.fr",
+      "afr" 
+      "url" : "https://www.amazon.fr/s?k={{{s}}}"
+    },
+    {
+      "name" : "Adafruit",
+      "aft" 
+      "url" : "https://www.adafruit.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "Aftership",
+      "aftership" 
+      "url" : "https://track.aftership.com/{{{s}}}"
+    },
+    {
+      "name" : "aftvhacks",
+      "aftvhacks" 
+      "url" : "https://aftvhacks.de/?s={{{s}}}"
+    },
+    {
+      "name" : "Afrikaans Wikipedia",
+      "afwiki" 
+      "url" : "https://af.wikipedia.org/w/index.php?search={{{s}}}&title=Spesiaal%3ASoek&go=Wys"
+    },
+    {
+      "name" : "Agame",
+      "agame" 
+      "url" : "http://www.agame.com/search?searchTerm={{{s}}}"
+    },
+    {
+      "name" : "AnaitGames",
+      "agames" 
+      "url" : "https://www.anaitgames.com/buscador.php?search={{{s}}}"
+    },
+    {
+      "name" : "Android Geeks",
+      "ag" 
+      "url" : "http://www.android.gs/?s=&q={{{s}}}"
+    },
+    {
+      "name" : "The Annotated Grateful Dead Lyrics",
+      "agdl" 
+      "url" : "http://duckduckgo.com/?q={{{s}}}+site:artsites.ucsc.edu/GDead/agdl/+!"
+    },
+    {
+      "name" : "Amazon Germany",
+      "age" 
+      "url" : "https://www.amazon.de/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon Germany",
+      "ager" 
+      "url" : "https://www.amazon.de/s?k={{{s}}}"
+    },
+    {
+      "name" : "Android Code Review (Gerrit)",
+      "agerrit" 
+      "url" : "https://android-review.googlesource.com/q/{{{s}}}"
+    },
+    {
+      "name" : "arturogoga",
+      "agoga" 
+      "url" : "https://www.arturogoga.com/?s={{{s}}}"
+    },
+    {
+      "name" : "http://agora.gg",
+      "agora" 
+      "url" : "http://agora.gg/search/{{{s}}}"
+    },
+    {
+      "name" : "Agora.co.il",
+      "agorail" 
+      "url" : "https://agora.co.il/toGet.asp?iseek={{{s}}}"
+    },
+    {
+      "name" : "Agri-R\u00e9seau",
+      "agri" 
+      "url" : "https://www.agrireseau.net/documents?r={{{s}}}"
+    },
+    {
+      "name" : "AGRICOLA",
+      "agricola" 
+      "url" : "https://agricola.nal.usda.gov/vwebv/search?searchArg={{{s}}}&searchCode=GKEY%5E&setLimit=1&recCount=10&searchType=1&page.search.search.button=Search"
+    },
+    {
+      "name" : "Adventure Gamers",
+      "ags" 
+      "url" : "https://adventuregamers.com/games/search?key={{{s}}}"
+    },
+    {
+      "name" : "Albert Heijn",
+      "ah" 
+      "url" : "https://www.ah.nl/zoeken?rq={{{s}}}"
+    },
+    {
+      "name" : "american heritage dictionary",
+      "ahd" 
+      "url" : "https://ahdictionary.com/word/search.html?q={{{s}}}&submit.x=0&submit.y=0"
+    },
+    {
+      "name" : "ArkhamDB",
+      "ahdb" 
+      "url" : "https://arkhamdb.com/find?q={{{s}}}"
+    },
+    {
+      "name" : "AutoHotkey",
+      "ahk" 
+      "url" : "http://www.autohotkey.com/search/search.php?site=4&refine=0&template_demo=phpdig.html&result_page=search.php&search=Go+...&limite=100&option=start&path=docs/&query_string={{{s}}}"
+    },
+    {
+      "name" : "Ahmet \u00c7ad\u0131rc\u0131",
+      "ahmetcadirci" 
+      "url" : "https://ahmetcadirci.com.tr/search/?q={{{s}}}"
+    },
+    {
+      "name" : "Ahmia.fi",
+      "ahmia" 
+      "url" : "https://ahmia.fi/search/?q={{{s}}}"
+    },
+    {
+      "name" : "ahrefs",
+      "ahrefs" 
+      "url" : "https://ahrefs.com/site-explorer/overview/v2/subdomains/recent?target={{{s}}}"
+    },
+    {
+      "name" : "Arkham Horror Wiki",
+      "ahw" 
+      "url" : "http://www.arkhamhorrorwiki.com/wiki/index.php?title=Special%3ASearch&search={{{s}}}&go=Go"
+    },
+    {
+      "name" : "DuckDuckGo AI Chat",
+      "aichat" 
+      "url" : "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true "
+    },
+    {
+      "name" : "AIDaily",
+      "aidaily" 
+      "url" : "https://www.aidaily.co.uk/search?q={{{s}}}"
+    },
+    {
+      "name" : "Aiden Promtions",
+      "aiden" 
+      "url" : "https://aidenpromotions.com/blog/?s=phones {{{s}}}"
+    },
+    {
+      "name" : "Arlington Industries",
+      "aifit" 
+      "url" : "http://www.aifittings.com/searchResults?q={{{s}}}"
+    },
+    {
+      "name" : "Aikatsu Friends Wikia",
+      "aifriends" 
+      "url" : "http://aikatsu-friends.wikia.com/wiki/Special:Search?query={{{s}}}"
+    },
+    {
+      "name" : "aihit",
+      "aihit" 
+      "url" : "https://www.aihitdata.com/search/companies?i={{{s}}}"
+    },
+    {
+      "name" : "ai-jobs.net",
+      "aijobs" 
+      "url" : "https://ai-jobs.net/?search_key={{{s}}}"
+    },
+    {
+      "name" : "Aikatsu Wikia",
+      "aikatsu" 
+      "url" : "http://aikatsu.wikia.com/wiki/Special:Search?query={{{s}}}"
+    },
+    {
+      "name" : "Amazon India",
+      "a.in" 
+      "url" : "https://www.amazon.in/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon India",
+      "ain" 
+      "url" : "https://www.amazon.in/s?k={{{s}}}"
+    },
+    {
+      "name" : "Aion Wiki",
+      "aion" 
+      "url" : "http://aion.wikia.com/wiki/index.php?search={{{s}}}&fulltext=0"
+    },
+    {
+      "name" : "aip.org",
+      "aip" 
+      "url" : "http://scitation.aip.org/search?value1={{{s}}}&option1=fulltext"
+    },
+    {
+      "name" : "Air1",
+      "air1" 
+      "url" : "http://www.air1.com/search.aspx?searchterm={{{s}}}"
+    },
+    {
+      "name" : "airbnb",
+      "airbnb" 
+      "url" : "https://www.airbnb.com/s/{{{s}}}"
+    },
+    {
+      "name" : "Airforums",
+      "airforums" 
+      "url" : "http://airforums.com/?={{{s}}}:"
+    },
+    {
+      "name" : "Aircraft Registration Database Lookup",
+      "airframes" 
+      "url" : "http://www.airframes.org/reg/{{{s}}}"
+    },
+    {
+      "name" : "Airline Hydraulics",
+      "airlinehyd" 
+      "url" : "https://www.airlinehyd.com/Results.aspx?srh={{{s}}}"
+    },
+    {
+      "name" : "Airliners.net",
+      "airliners" 
+      "url" : "http://www.airliners.net/search?key={{{s}}}"
+    },
+    {
+      "name" : "Air Mozilla",
+      "airmo" 
+      "url" : "https://air.mozilla.org/search/?q={{{s}}}"
+    },
+    {
+      "name" : "AirNav",
+      "airn" 
+      "url" : "https://airnav.com/airport/{{{s}}}"
+    },
+    {
+      "name" : "Airnav",
+      "airnav" 
+      "url" : "http://airnav.com/airport/{{{s}}}"
+    },
+    {
+      "name" : "Good To Breathe In",
+      "airquality" 
+      "url" : "https://www.goodtobreathein.com/?zipcode={{{s}}}"
+    },
+    {
+      "name" : "Airsoftdb",
+      "airsoftdb" 
+      "url" : "https://www.airsoftdb.com/search/?q={{{s}}}"
+    },
+    {
+      "name" : "archive.is",
+      "ais" 
+      "url" : "http://archive.is/{{{s}}}"
+    },
+    {
+      "name" : "Aish",
+      "aish" 
+      "url" : "http://www.aish.com/search/?key={{{s}}}"
+    },
+    {
+      "name" : "Aikatsu Stars Wikia",
+      "aistars" 
+      "url" : "http://aikatsustars.wikia.com/wiki/Special:Search?query={{{s}}}"
+    },
+    {
+      "name" : "Amazon.it",
+      "ait" 
+      "url" : "https://www.amazon.it/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon IT",
+      "a.it" 
+      "url" : "https://www.amazon.it/s?k={{{s}}}"
+    },
+    {
+      "name" : "AITopics",
+      "aitopics" 
+      "url" : "https://aitopics.org/search?q={{{s}}}"
+    },
+    {
+      "name" : "DuckDuckGo AI Chat",
+      "ai" 
+      "url" : "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true "
+    },
+    {
+      "name" : "Al Jazeera America",
+      "aja" 
+      "url" : "http://america.aljazeera.com/search.html?q={{{s}}}"
+    },
+    {
+      "name" : "All Japanese All the Time",
+      "ajatt" 
+      "url" : "http://www.alljapaneseallthetime.com/blog/?s={{{s}}}"
+    },
+    {
+      "name" : "Acha Jogo Barato",
+      "ajb" 
+      "url" : "http://www.achajogobarato.com.br/search.html?query={{{s}}}"
+    },
+    {
+      "name" : "Al Jazeera (English)",
+      "aje" 
+      "url" : "http://www.aljazeera.com/Search/?q={{{s}}}"
+    },
+    {
+      "name" : "http://amazon.co.jp",
+      "aj" 
+      "url" : "https://www.amazon.co.jp/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.co.jp",
+      "ajl" 
+      "url" : "https://www.amazon.co.jp/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.co.jp",
+      "ajp" 
+      "url" : "https://www.amazon.co.jp/s?k={{{s}}}"
+    },
+    {
+      "name" : "Account Killer",
+      "ak" 
+      "url" : "https://www.accountkiller.com/en/delete-{{{s}}}-account"
+    },
+    {
+      "name" : "Akak\u00e7e",
+      "akakce" 
+      "url" : "http://www.akakce.com/arama/?q={{{s}}}"
+    },
+    {
+      "name" : "American Kennel Club",
+      "akc" 
+      "url" : "https://www.akc.org/?s={{{s}}}"
+    },
+    {
+      "name" : "akizukidenshi",
+      "akiduki" 
+      "url" : "http://akizukidenshi.com/catalog/goods/search.aspx?keyword= {{{s}}}&goods=&number=&name=&min_price=&max_price=&search.x=0&search.y=0"
+    },
+    {
+      "name" : "AllKeyShop",
+      "aks" 
+      "url" : "http://www.allkeyshop.com/blog/catalogue/search-{{{s}}}/"
+    },
+    {
+      "name" : "Aktuality",
+      "aktuality" 
+      "url" : "https://www.aktuality.sk/vyhladavanie/?q={{{s}}}"
+    },
+    {
+      "name" : "Aktu\u00e1ln\u011b.cz",
+      "aktualne" 
+      "url" : "https://www.aktualne.cz/hledani/?query={{{s}}}"
+    },
+    {
+      "name" : "alaMaula",
+      "ala" 
+      "url" : "http://www.alamaula.com/q/{{{s}}}/S0"
+    },
+    {
+      "name" : "Cat\u00e0leg de la Xarxa de Biblioteques Municipals de la Diputaci\u00f3 de Barcelona",
+      "aladi" 
+      "url" : "https://aladi.diba.cat/search*cat/-{{{s}}}"
+    },
+    {
+      "name" : "aladin",
+      "aladin" 
+      "url" : "http://www.aladin.co.kr/search/wsearchresult.aspx?SearchTarget=All&SearchWord={{{s}}}"
+    },
+    {
+      "name" : "AniList",
+      "al" 
+      "url" : "https://anilist.co/search/anime?search={{{s}}}"
+    },
+    {
+      "name" : "Arch Linux ARM Packages",
+      "alarmpkg" 
+      "url" : "https://archlinuxarm.org/packages/?q={{{s}}}"
+    },
+    {
+      "name" : "alaTest",
+      "alatest" 
+      "url" : "http://alatest.de/searchaction.html?keyword1={{{s}}}"
+    },
+    {
+      "name" : "Atlas of Living Australia",
+      "alaus" 
+      "url" : "https://bie.ala.org.au/search?q={{{s}}}"
+    },
+    {
+      "name" : "alibaba",
+      "alb" 
+      "url" : "https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText={{{s}}}"
+    },
+    {
+      "name" : "Government of Alberta",
+      "alberta" 
+      "url" : "https://www.alberta.ca/search-results.aspx?q={{{s}}}"
+    },
+    {
+      "name" : "Albert Hein",
+      "alberthein" 
+      "url" : "http://www.ah.nl/zoeken?rq={{{s}}}"
+    },
+    {
+      "name" : "Album Art Exchange",
+      "albex" 
+      "url" : "http://www.albumartexchange.com/covers.php?q={{{s}}} "
+    },
+    {
+      "name" : "AllMusic Albums",
+      "album" 
+      "url" : "http://www.allmusic.com/search/albums/{{{s}}}"
+    },
+    {
+      "name" : "Albumart (Music)",
+      "albumartcd" 
+      "url" : "http://www.albumart.org/index.php?skey={{{s}}}&itempage=1&newsearch=1&searchindex=Music"
+    },
+    {
+      "name" : "Albumart (DVD)",
+      "albumartdvd" 
+      "url" : "http://www.albumart.org/index.php?skey={{{s}}}&itempage=1&newsearch=1&searchindex=DVD"
+    },
+    {
+      "name" : "iTunes Album Artwork Finder",
+      "albumart" 
+      "url" : "https://bendodson.com/projects/itunes-artwork-finder/index.html?entity=album&country=us&query={{{s}}}"
+    },
+    {
+      "name" : "AllMusic Albums",
+      "albums" 
+      "url" : "http://www.allmusic.com/search/albums/{{{s}}}"
+    },
+    {
+      "name" : "Alc Japanese English Dictionary",
+      "alc" 
+      "url" : "http://eow.alc.co.jp/search?q={{{s}}}"
+    },
+    {
+      "name" : "BiznesAlert",
+      "alert" 
+      "url" : "http://biznesalert.pl/?s={{{s}}}"
+    },
+    {
+      "name" : "alesund kommune",
+      "alesund" 
+      "url" : "http://www.alesund.kommune.no/component/finder/search?q={{{s}}}&Itemid=406"
+    },
+    {
+      "name" : "Alexa",
+      "alexa" 
+      "url" : "http://alexa.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "Alexalt",
+      "alexalt" 
+      "url" : "https://www.alexalt.es/?s={{{s}}}"
+    },
+    {
+      "name" : "alexa",
+      "alexasi" 
+      "url" : "http://www.alexa.com/siteinfo/{{{s}}}"
+    },
+    {
+      "name" : "Alexion CRM software",
+      "alexion" 
+      "url" : "http://alexion.nl/?s={{{s}}}&post_type=faq"
+    },
+    {
+      "name" : "AlexShoes Cal\u00e7ados",
+      "alexshoes" 
+      "url" : "http://www.alexshoes.com.br/buscacomfab.asp?chaves={{{s}}}"
+    },
+    {
+      "name" : "ALF Insight",
+      "alf" 
+      "url" : "https://www.alfinsight.com/app/SearchResults?quickSearch={{{s}}} "
+    },
+    {
+      "name" : "Alfred",
+      "alfred" 
+      "url" : "https://www.alfredapp.com/search/?q={{{s}}}"
+    },
+    {
+      "name" : "Algomation",
+      "alg" 
+      "url" : "http://www.algomation.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "Algorithmia",
+      "algo" 
+      "url" : "https://algorithmia.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "Aliexpress",
+      "ali" 
+      "url" : "https://www.aliexpress.com/wholesale?SearchText={{{s}}}"
+    },
+    {
+      "name" : "Alibaba",
+      "alibaba" 
+      "url" : "http://www.alibaba.com/trade/search?SearchText={{{s}}}"
+    },
+    {
+      "name" : "Auckland Libraries",
+      "alib" 
+      "url" : "https://discover.elgar.govt.nz/iii/encore/search/C__S{{{s}}}__Orightresult__U?lang=eng&suite=def"
+    },
+    {
+      "name" : "alibris",
+      "alibris" 
+      "url" : "http://www.alibris.com/booksearch?keyword={{{s}}}"
+    },
+    {
+      "name" : "\u00c1brete libro",
+      "alibro" 
+      "url" : "http://www.abretelibro.com/foro/search.php?key={{{s}}}&sf=titleonly"
+    },
+    {
+      "name" : "\u00c1brete libro",
+      "alibros" 
+      "url" : "http://www.abretelibro.com/foro/search.php?key={{{s}}}"
+    },
+    {
+      "name" : "Alice Mail",
+      "alicemail" 
+      "url" : "https://mail.alice.it/?q={{{s}}}"
+    },
+    {
+      "name" : "Aliexpress",
+      "aliexp" 
+      "url" : "http://www.aliexpress.com/wholesale?SearchText={{{s}}}"
+    },
+    {
+      "name" : "Aliexpress",
+      "aliexpress" 
+      "url" : "http://www.aliexpress.com/wholesale?SearchText={{{s}}}"
+    },
+    {
+      "name" : "Alight",
+      "alight" 
+      "url" : "https://careers.alight.com/search-results?key={{{s}}}"
+    },
+    {
+      "name" : "AliExpress Mobile",
+      "alim" 
+      "url" : "https://m.aliexpress.com/search.htm?key={{{s}}}"
+    },
+    {
+      "name" : "AliPaczka",
+      "alipaczka" 
+      "url" : "https://alipaczka.pl/?track={{{s}}}"
+    },
+    {
+      "name" : "Aliseeks",
+      "aliseeks" 
+      "url" : "http://aliseeks.com/search?SearchText={{{s}}}"
+    },
+    {
+      "name" : "Aljazeera English",
+      "aljazeera" 
+      "url" : "http://english.aljazeera.net/Services/Search/?q={{{s}}}"
+    },
+    {
+      "name" : "Alko",
+      "alko" 
+      "url" : "https://www.alko.fi/INTERSHOP/web/WFS/Alko-OnlineShop-Site/fi_FI/-/EUR/ViewParametricSearchBySearchIndex-SimpleGenericSearch?SearchTerm={{{s}}}"
+    },
+    {
+      "name" : "Alla Bolag",
+      "allabolag" 
+      "url" : "https://www.allabolag.se/what/{{{s}}}"
+    },
+    {
+      "name" : "allaboutcircuits",
+      "allaboutcircuits" 
+      "url" : "http://www.allaboutcircuits.com/scripts/search.html?cx=006978388026519765659%3Ahg719j5vhl8&cof=FORID%3A9&q={{{s}}}&sa=Find"
+    },
+    {
+      "name" : "All Acronyms",
+      "allacronyms" 
+      "url" : "https://www.allacronyms.com/{{{s}}}"
+    },
+    {
+      "name" : "All in One",
+      "all" 
+      "url" : "http://all-io.net/?q={{{s}}}"
+    },
+    {
+      "name" : "Online Parallel Bible",
+      "allbibles" 
+      "url" : "http://biblez.com/search.php?q={{{s}}}"
+    },
+    {
+      "name" : "AllBiz",
+      "allbiz" 
+      "url" : "http://www.all.biz/search/goods/?q={{{s}}}"
+    },
+    {
+      "name" : "Allegro",
+      "allegro" 
+      "url" : "http://allegro.pl/listing.php/search?string={{{s}}}"
+    },
+    {
+      "name" : "All Electronics",
+      "allelec" 
+      "url" : "http://www.allelectronics.com/index.php?page=seek&id%5Bm%5D=pattern&id%5Bq%5D={{{s}}}"
+    },
+    {
+      "name" : "Allerhande",
+      "allerhande" 
+      "url" : "https://www.ah.nl/allerhande/recepten-zoeken?Ntt={{{s}}}"
+    },
+    {
+      "name" : "Allerstorfer.at",
+      "allerstorfer" 
+      "url" : "https://www.allerstorfer.at/?s={{{s}}}"
+    },
+    {
+      "name" : "All Experts",
+      "allexperts" 
+      "url" : "http://en.allexperts.com/sitesearch.htm?terms={{{s}}}"
+    },
+    {
+      "name" : "Alliance Champions Training Center",
+      "alliance" 
+      "url" : "https://alliancechampions.com/?s={{{s}}}"
+    },
+    {
+      "name" : "Allied Electronics",
+      "alliedelec" 
+      "url" : "http://www.alliedelec.com/search/results.aspx?term={{{s}}}"
+    },
+    {
+      "name" : "AllMovie",
+      "allmovie" 
+      "url" : "http://allmovie.com/search/all/{{{s}}}"
+    },
+    {
+      "name" : "All Music",
+      "allmus" 
+      "url" : "https://www.allmusic.com/search/all/{{{s}}}"
+    },
+    {
+      "name" : "AllMusic",
+      "allmusic" 
+      "url" : "http://www.allmusic.com/search/all/{{{s}}}"
+    },
+    {
+      "name" : "Allocin\u00e9",
+      "allo" 
+      "url" : "http://www.allocine.fr/recherche/?q={{{s}}}"
+    },
+    {
+      "name" : "Allocine.com",
+      "allocine" 
+      "url" : "http://www.allocine.fr/recherche/?q={{{s}}}"
+    },
+    {
+      "name" : "Allocin\u00e9",
+      "allocin\u00e9" 
+      "url" : "http://www.allocine.fr/recherche/?q={{{s}}}"
+    },
+    {
+      "name" : "All Posters",
+      "allposters" 
+      "url" : "http://www.allposters.com/gallery.asp?txtSearch={{{s}}}"
+    },
+    {
+      "name" : "Allrecipes",
+      "allrecipes" 
+      "url" : "http://allrecipes.com/search/results/?wt={{{s}}}"
+    },
+    {
+      "name" : "AllSides",
+      "allsides" 
+      "url" : "https://www.allsides.com/allsides-search-results?search_api_views_fulltext={{{s}}}"
+    },
+    {
+      "name" : "AllSongs",
+      "allsongs" 
+      "url" : "http://allsongs.tv/search/?q={{{s}}}"
+    },
+    {
+      "name" : "almaany",
+      "almaanyar" 
+      "url" : "http://www.almaany.com/ar/dict/ar-ar/{{{s}}}"
+    },
+    {
+      "name" : "Almaany",
+      "almaanyen" 
+      "url" : "http://www.almaany.com/ar/dict/ar-en/{{{s}}}/"
+    },
+    {
+      "name" : "Almaany persian",
+      "almaanyfa" 
+      "url" : "https://www.almaany.com/ar/dict/ar-fa/{{{s}}}/"
+    },
+    {
+      "name" : "The Old Farmer's Almanac",
+      "almanac" 
+      "url" : "http://www.almanac.com/store/product-search?keys={{{s}}}"
+    },
+    {
+      "name" : "Livraria Almedina",
+      "almedina" 
+      "url" : "https://www.almedina.net/search.php?query={{{s}}}"
+    },
+    {
+      "name" : "Alnatura(DE)",
+      "alnaturade" 
+      "url" : "http://www.alnatura.de/de-de/suche?q={{{s}}}"
+    },
+    {
+      "name" : "alo.bg",
+      "alobg" 
+      "url" : "https://www.alo.bg/searchq/?q={{{s}}}"
+    },
+    {
+      "name" : "Arch Linux Packages",
+      "alp" 
+      "url" : "https://www.archlinux.org/packages/?sort=&q={{{s}}}"
+    },
+    {
+      "name" : "Wolfram|Alpha",
+      "alpha" 
+      "url" : "http://www.wolframalpha.com/input/?i={{{s}}}"
+    },
+    {
+      "name" : "Alpine packages",
+      "alpine" 
+      "url" : "http://pkgs.alpinelinux.org/packages?name={{{s}}}"
+    },
+    {
+      "name" : "alternativeTo",
+      "alt" 
+      "url" : "http://alternativeto.net/SearchResult.aspx?search={{{s}}}"
+    },
+    {
+      "name" : "Alternate Belgi\u00eb",
+      "altbe" 
+      "url" : "https://www.alternate.be/html/search.html?query={{{s}}}"
+    },
+    {
+      "name" : "Alternate",
+      "alternate" 
+      "url" : "http://www.alternate.de/html/search.html?searchCriteria={{{s}}}"
+    },
+    {
+      "name" : "Alternate Nederland",
+      "alternatenl" 
+      "url" : "https://www.alternate.nl/html/search.html?query={{{s}}}"
+    },
+    {
+      "name" : "AlternativeTo.net",
+      "alternative" 
+      "url" : "http://alternativeto.net/searchresult.aspx?search={{{s}}}"
+    },
+    {
+      "name" : "alternativeto.net",
+      "alternativeto" 
+      "url" : "http://alternativeto.net/browse/search?q={{{s}}}"
+    },
+    {
+      "name" : "Alternet",
+      "alternet" 
+      "url" : "https://www.alternet.org/search/site/{{{s}}}"
+    },
+    {
+      "name" : "Altex",
+      "altex" 
+      "url" : "https://altex.ro/cauta/?q={{{s}}}"
+    },
+    {
+      "name" : "Altium",
+      "altium" 
+      "url" : "http://techdocs.altium.com/search/wikinode/{{{s}}}"
+    },
+    {
+      "name" : "Alternative To",
+      "alto" 
+      "url" : "http://alternativeto.net/browse/search?q={{{s}}} "
+    },
+    {
+      "name" : "Altroconsumo",
+      "altro" 
+      "url" : "http://www.altroconsumo.it/Serp/ShowResults?keyword={{{s}}}"
+    },
+    {
+      "name" : "Altru Careers",
+      "altru" 
+      "url" : "https://altru.greatjob.net/search-results?key={{{s}}}"
+    },
+    {
+      "name" : "alternativeTo",
+      "altto" 
+      "url" : "http://alternativeto.net/browse/search?q={{{s}}}"
+    },
+    {
+      "name" : "alugha",
+      "alugha" 
+      "url" : "https://alugha.com/search?q={{{s}}}"
+    },
+    {
+      "name" : "Alvanista",
+      "alvanista" 
+      "url" : "http://alvanista.com/search?s={{{s}}}"
+    },
+    {
+      "name" : "alpine linux wiki",
+      "alw" 
+      "url" : "https://wiki.alpinelinux.org/w/index.php?search={{{s}}}"
+    },
+    {
+      "name" : "Alza.cz",
+      "alza" 
+      "url" : "https://www.alza.cz/search.htm?exps={{{s}}}"
+    },
+    {
+      "name" : "Amazon Deutschland",
+      "ama" 
+      "url" : "https://www.amazon.de/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.de",
+      "amademp3" 
+      "url" : "https://www.amazon.de/s?k={{{s}}}&i=digital-music"
+    },
+    {
+      "name" : "Amazon Alexa Skills Search Page",
+      "amalexa" 
+      "url" : "https://www.amazon.com/s?k={{{s}}}&i=alexa-skills"
+    },
+    {
+      "name" : "Amazon.com",
+      "am" 
+      "url" : "https://www.amazon.com/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amanz",
+      "amanz" 
+      "url" : "https://amanz.my/?s={{{s}}}"
+    },
+    {
+      "name" : "Apple Maps",
+      "amaps" 
+      "url" : "http://maps.apple.com/?q={{{s}}}"
+    },
+    {
+      "name" : "Amara",
+      "amara" 
+      "url" : "http://www.amara.org/search/#/?q={{{s}}}"
+    },
+    {
+      "name" : "amazon.com.au",
+      "amau" 
+      "url" : "https://www.amazon.com.au/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.com",
+      "amazon" 
+      "url" : "https://www.amazon.com/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.com.au",
+      "amazonau" 
+      "url" : "https://www.amazon.com.au/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.ca",
+      "amazonca" 
+      "url" : "https://www.amazon.ca/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.cn",
+      "amazoncn" 
+      "url" : "https://www.amazon.cn/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.de",
+      "amazon_de" 
+      "url" : "https://www.amazon.de/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.de",
+      "amazonde" 
+      "url" : "https://www.amazon.de/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.es",
+      "amazones" 
+      "url" : "https://www.amazon.es/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.fr",
+      "amazonfr" 
+      "url" : "https://www.amazon.fr/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon India",
+      "amazonin" 
+      "url" : "https://www.amazon.in/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon India",
+      "amazon.in" 
+      "url" : "http://www.amazon.in/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.it",
+      "amazon.it" 
+      "url" : "https://www.amazon.it/s/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.it",
+      "amazonit" 
+      "url" : "https://www.amazon.it/s/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.co.jp",
+      "amazonjp" 
+      "url" : "https://www.amazon.co.jp/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon MP3 Store",
+      "amazonmp3" 
+      "url" : "https://www.amazon.com/s?k={{{s}}}&i=digital-music"
+    },
+    {
+      "name" : "Amazon M\u00e9xico",
+      "amazonmx" 
+      "url" : "https://www.amazon.com.mx/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon Nederland",
+      "amazonnl" 
+      "url" : "https://www.amazon.nl/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.com order history",
+      "amazonorders" 
+      "url" : "https://www.amazon.com/gp/your-account/order-history/ref=oh_aui_search?opt=ab&search={{{s}}} "
+    },
+    {
+      "name" : "Amazon.com.tr",
+      "amazontr" 
+      "url" : "https://www.amazon.com.tr/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.co.uk",
+      "amazonuk" 
+      "url" : "https://www.amazon.co.uk/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.ca",
+      "amca" 
+      "url" : "https://www.amazon.ca/s?k={{{s}}}"
+    },
+    {
+      "name" : "Amazon.ca",
+      "am.ca" 
+      "url" : "https://www.amazon.ca/s?k={{{s}}}"
+    },
+    {
+      "name" : "AMC TV",
+      "amc" 
+      "url" : "http://www.amctv.com/search#q={{{s}}}"
+    },
+    {
+      "name" : "Amazon Cloud",
+      "amcloud" 
+      "url" : "https://www.amazon.com/clouddrive/#G=0&path={{{s}}}"
+    },
+    {
+  
