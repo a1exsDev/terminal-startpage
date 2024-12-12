@@ -29,8 +29,11 @@ var help = {
 		}
 		if (terminalFunctions.includes(args[0]) || editFunctions.includes(args[0])) {
 			render(window[args[0]].helpText)
+		// } else if (args == "bangs") {
+		//	render("box")
+		//	render(`${JSON.stringify(bangList)} - ${JSON.stringify(bangList)}`);
 		} else {
-			render("Command not found.");
+			render("\""+ args+"\" is not a valid command. Use \"ls\" to see all possible commands.");
 		}
 	},
 	helpText: ':^)',
@@ -53,8 +56,7 @@ var ls = {
 
 var clear = {
 	main: function() {
-		var data = '<span id="prompt" class="prompt">' + getName() + '@' + getMachine() +
-	    	':$&nbsp;</span><span id="input" contenteditable="true" autofocus="true" spellcheck="false"></span>'
+		var data = '<span id="prompt" class="prompt">' + getName() + '@' + getMachine() + getREPL()+' </span><span id="input" contenteditable="true" autofocus="true" spellcheck="false"></span>'
 	    document.getElementById("terminal").innerHTML = data;
 	   	addListeners();
 	   	$("#input").focus();
@@ -372,14 +374,15 @@ var settings = {
 	}, helpText: 'Displays current settings and allows you to configure them.\nTo change or configure a value, take the name and make it lowercase.\nIf containing any spaces, change them to dashes(-).'
 } 
 
-function bangs(args) {
-	args = args.replace("!","");
-	if (args == '') {
-		render(`No bang was given. Try \'ls bangs\' for all possible bangs. Or search it up (is easier)`); 
-		return false;
+function bangs(bang, args) {
+	if (bang == '') {
+		render(`No bang was given. Try \'help bangs\' for all possible bangs. Or search it up (is easier)`); 
+		return;
 	}
-	console.log(bangsList)
-	render(`${jsonData[args] == undefined ? "!"+ args +"" : 'yes'}`)
-	console.log(args);
-	return true;
+	console.log(bangList);
+	if (JSON.stringify(bangList[bang].s) == undefined) { render('!'+bang+' is not a vaild bang. Please use \'help bangs\' to list all possible bangs'); return;
+	} else {
+		render(`Going to ${JSON.stringify(bangList[bang].s).replaceAll('"', '')} (${JSON.stringify(bangList[bang].d).replaceAll('"','')})`)
+		return;
+	}
 }

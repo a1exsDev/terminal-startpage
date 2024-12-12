@@ -177,35 +177,38 @@ function handleInput(rawInput) {
 	appendLastInput(rawInput);
     if (rawInput.search("!!") != -1) rawInput = rawInput.replace("!!", lastInputs[0]); // for the !! replacement like in UNIX
     // if (rawInput.search("!")!= -1 && terminal.bangs == true) bangs(rawInput.replace("!", '')); 
-	addInput(rawInput);
 
 	if (rawInput == "") return;
 
     //intercepting the function here to search
     if (searchString(rawInput)) {
+        addInput(rawInput);
         render("Searching for " + input.slice(0, input.length-3) + "...")
         return;
     }
 
     //do everything else here
     if (preCheck(rawInput)) {
-         return;
+        addInput(rawInput);
+        return;
     }
 
-	var firstWord = rawInput.split(" ")[0];
+	var firstWord = (rawInput.split(" ")[0]);
+    if (firstWord.includes("!")) firstWord = firstWord.replace('!', '');
 	var args = rawInput.split(" ").slice(1); //remove the first word
 
     //if the command is valid
 	if (terminalFunctions.includes(firstWord) ||
         editFunctions.includes(firstWord)) {
 		//call the function and supply the array of args
-		window[firstWord].main(args);
-	} else if (firstWord.includes('!')) {
-        bangs(rawInput, 0)
+        window[firstWord].main(args);
+	} else if (rawInput.includes('!')) {
+        bangs(firstWord, args)
     } else {
 		render("Command \""+firstWord+"\" not found. Try \"ls\" for all commands.")
 	}
 
+    addInput(rawInput);
 	document.getElementById("input").scrollIntoView();
 }
 
@@ -247,7 +250,6 @@ function appendLastInput(text) {
 }
 
 function render(text, color) {
-
     if (typeof(color) != 'undefined') {
         text = '<span style="color:'+color+';">'+text+"</span>";
     }
